@@ -1,0 +1,23 @@
+name: amypritchard
+favicon: null
+layout_spectrum: 0.9591075154021382
+typography_spectrum: 0.7375627823639661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.718351365532726
+  lightness: 0.5476356872823089
+  saturation: 0.20044391322880983
+  rhythmicContrast: 0.15551756275817752
+purpose: []
